@@ -10,6 +10,7 @@
 
     <modelVersion>4.0.0</modelVersion>
 
+    <groupId>cn.cn.lit</groupId>
     <artifactId>spring-cloud-eureka-client01</artifactId>
 
     <name>spring-cloud-eureka-client01</name>

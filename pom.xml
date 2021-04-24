@@ -13,6 +13,7 @@
         <module>spring-cloud-eureka-server02</module>
         <module>spring-cloud-ribbon-client</module>
         <module>spring-cloud-zuul-client01</module>
+        <module>spring-cloud-user-service</module>
 
     </modules>
 

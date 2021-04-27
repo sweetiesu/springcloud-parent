@@ -15,6 +15,7 @@
         <module>spring-cloud-zuul-client01</module>
         <module>spring-cloud-user-service</module>
         <module>spring-cloud-order-service</module>
+        <module>spring-cloud-eureka-client-api</module>
 
     </modules>
 

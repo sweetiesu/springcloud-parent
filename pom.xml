@@ -17,6 +17,7 @@
         <module>spring-cloud-order-service</module>
         <module>spring-cloud-eureka-client-api</module>
         <module>spring-cloud-feign</module>
+        <module>spring-cloud-config-server</module>
 
     </modules>
 
